@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanksConsole", "TanksConsole\TanksConsole.csproj", "{12735DBE-7807-4BB1-86BD-90E11C9FFC27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanks.Common", "Tanks.Common\Tanks.Common.csproj", "{B45000A5-6A90-4133-BD8F-049CCF909CAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{12735DBE-7807-4BB1-86BD-90E11C9FFC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12735DBE-7807-4BB1-86BD-90E11C9FFC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12735DBE-7807-4BB1-86BD-90E11C9FFC27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45000A5-6A90-4133-BD8F-049CCF909CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45000A5-6A90-4133-BD8F-049CCF909CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45000A5-6A90-4133-BD8F-049CCF909CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45000A5-6A90-4133-BD8F-049CCF909CAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
